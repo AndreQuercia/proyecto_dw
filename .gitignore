@@ -1,3 +1,9 @@
+# Otros
+
+Desafios/
+*.docx
+*.json
+
 # Logs
 logs
 *.log
